@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.tracker.financetrackerapp.SettingsController" spacing="10" style="-fx-padding: 20px; -fx-font-family: 'Arial';">
+    <ListView fx:id="categoryListView" prefHeight="300" VBox.vgrow="ALWAYS" style="-fx-background-color: #f4f4f4; -fx-border-color: #ddd; -fx-border-width: 1px;">
+    </ListView>
+
+    <HBox spacing="10">
+        <TextField fx:id="categoryField" promptText="Category Name" style="-fx-padding: 10px; -fx-font-size: 14px;">
+        </TextField>
+        <Button text="Add" onAction="#handleAddCategory" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-padding: 10px 20px; -fx-border-radius: 5px;">
+        </Button>
+        <Button text="Edit" onAction="#handleEditCategory" style="-fx-background-color: #FFC107; -fx-text-fill: white; -fx-padding: 10px 20px; -fx-border-radius: 5px;">
+        </Button>
+        <Button text="Remove" onAction="#handleDeleteCategory" style="-fx-background-color: #F44336; -fx-text-fill: white; -fx-padding: 10px 20px; -fx-border-radius: 5px;">
+        </Button>
+    </HBox>
+</VBox>

@@ -1,0 +1,15 @@
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/module-info.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/EntryType.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/AddEntryModalController.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/VisualizationController.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/crud/CategoryCrud.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/ExpenseEntry.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/MainApplication.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/DatabaseManager.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/IncomeController.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/IncomeEntry.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/ExpenseController.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/crud/ExpenseCrud.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/SettingsController.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/crud/IncomeCrud.java
+/Users/marusiachinkova/Desktop/FinanceTrackerApp/src/main/java/com/tracker/financetrackerapp/Alerts.java

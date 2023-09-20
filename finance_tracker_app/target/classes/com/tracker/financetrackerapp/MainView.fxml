@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml">
+    <center>
+        <TabPane tabClosingPolicy="UNAVAILABLE" tabMinWidth="150">
+            <Tab text="Income">
+                <fx:include source="IncomeView.fxml"/>
+            </Tab>
+            <Tab text="Expenses">
+                <fx:include source="ExpenseView.fxml"/>
+            </Tab>
+            <Tab text="Visualization">
+                <fx:include source="VisualizationView.fxml"/>
+            </Tab>
+            <Tab text="Settings">
+                <fx:include source="SettingsView.fxml"/>
+            </Tab>
+        </TabPane>
+    </center>
+</BorderPane>
